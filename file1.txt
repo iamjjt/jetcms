@@ -4,3 +4,5 @@ cccc
 dddd
 
 creating a branch
+
+Creating a new branch is quick & simple.
